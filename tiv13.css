@@ -7,3 +7,10 @@
    font-size: 15px; 
    background-color: chartreuse;
 }
+
+.card {
+    
+    width: 300px;
+    height: 200px;
+
+}
