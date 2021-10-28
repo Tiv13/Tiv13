@@ -2,3 +2,8 @@
     color:blue;
     text-align: center;
 }
+.text {
+   font-family:Georgia;
+   font-size: 15px; 
+   background-color: chartreuse;
+}
