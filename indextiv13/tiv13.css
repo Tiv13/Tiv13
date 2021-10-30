@@ -1,0 +1,16 @@
+.text-title {
+    color:blue;
+    text-align: center;
+}
+.text {
+   font-family:Georgia;
+   font-size: 15px; 
+   background-color: blue;
+}
+
+.card {
+    
+    width: 300px;
+    height: 200px;
+
+}
