@@ -1,0 +1,26 @@
+body {
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  margin-top: 1.5em;
+}
+h1,
+h2,
+h3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1 {
+    font-size: 32px;
+}
+figcaption {
+  font-size: 16px;
+  font-style: italic;
+}
+figure {
+  float: right;
+  
+}
+.foto {
+  width: 90%;
+  height: 90%;
+}
